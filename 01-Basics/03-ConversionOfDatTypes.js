@@ -38,3 +38,11 @@ let bInNumber1 = Number(b1)
 
 console.log("b:",b,"bInNuber:",bInNumber)
 console.log("b1:",b1,"bInNuber1:",bInNumber1)
+
+
+
+// *************************** Operations *********************************
+console.log('\n\n\n*************************** Operations *********************************')
+
+let value = 10
+console.log("alue:",value);
